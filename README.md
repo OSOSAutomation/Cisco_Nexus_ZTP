@@ -10,14 +10,14 @@ The first thing to understand automation is to define the best programming langu
 Adding to Python scripts, the use of YANG (Yet Another Next Generation) along with NETCONF (NETwork CONFiguration) & RESTAPI (RESTful Application Programming Interface) as certified by IETF (Internet Engineering Task Force) provides the required tool for this modeling and device interaction.
 In our lab here, we will be using Python to define all the required programmability & automation tasks as a DMD (Data-Model Driven) as well as a coding software to the appliances.
 This code is going according to the following procedure:
- Why Python in this section from the handbook, we'll be defining why Python is a great programming language to be used for Cisco network programmability & automation.
- Solution Flowchart: as a startup, we should define what's required to be achieved & how, that's simply done using a flowchart methodology.
- Application Structure: Python is a great language to be cretate piece of codes integrating with each other & this section describes how this can be achieved.
- Phase-1: Meet The Application: an introduction interface to the application.
- Phase-2: Checking For Upgrades: first step with any networking device is to access it & check if it meets your software requirements.
- Phase-3: POAP: a standard protocol required to interact & initialize Cisco Nexus switches.
- Phase-4: Device Initialization: initial configuration of Nexus switch.
- Phase-5: VPC Configuration: the core configuration to build a datacenter switch automated with Python.
- Phase-6: Complementary Configuration: additional configuration required to make the switch ready to use.
- Phase-7: Finalizations & Confirmations: testing the code in a real-life devices.
+Why Python in this section from the handbook, we'll be defining why Python is a great programming language to be used for Cisco network programmability & automation.
+Solution Flowchart: as a startup, we should define what's required to be achieved & how, that's simply done using a flowchart methodology.
+Application Structure: Python is a great language to be cretate piece of codes integrating with each other & this section describes how this can be achieved.
+Phase-1: Meet The Application: an introduction interface to the application.
+Phase-2: Checking For Upgrades: first step with any networking device is to access it & check if it meets your software requirements.
+Phase-3: POAP: a standard protocol required to interact & initialize Cisco Nexus switches.
+Phase-4: Device Initialization: initial configuration of Nexus switch.
+Phase-5: VPC Configuration: the core configuration to build a datacenter switch automated with Python.
+Phase-6: Complementary Configuration: additional configuration required to make the switch ready to use.
+Phase-7: Finalizations & Confirmations: testing the code in a real-life devices.
 Using this code will make the life of datacenter engineers an awesone with min. efforts, am sure you will enjoy it.
