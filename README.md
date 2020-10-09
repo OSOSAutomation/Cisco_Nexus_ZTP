@@ -1,6 +1,7 @@
 # Cisco_Nexus_ZTP
 Automate Cisco Nexus Provisioning
 The code will implement Nexus upgrade, initial configuration & VPC domain configuration without touching the switches command line interface using Python application interactive interface.
+Using the file NXOS VPC Automation.pdf (attached) will help you use this code & generate similar codes in an easy way.
 Please refer to Cisco press books + Python certified books for a solid understanding about the theories behind this solution.
 Python is one of the major new programmability coding languages nowadays used in large next generation networking solutions based on implementation automation.
 There is no much time like earlier days to configure devices manually especially with the standardized configuration required over multiple networking devices.
