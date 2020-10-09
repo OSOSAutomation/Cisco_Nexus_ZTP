@@ -1,1 +1,12 @@
-
+The following files are required to use this software code:
+add_first.py: a function & class to add text to the first line in a file.
+add_second.py: a function & class to add text to the second line in a file.
+nxos.9.3.3.bin: an upgrade software file (you have to put only 1 upgrade file in the application folder).
+switchosos.py: Python master application.
+tftpd64.exe: POAP server providing DHCP + TFTP + boot file.
+WinMD5.exe: application to compute the MD5 of any file contents.
+getname.cmd: a command line Windows script to get the interface name for specific IP address configured on the laptop.
+initdev1.cfg: N9K-1 initialization configuration file.
+initdev2.cfg: N9K-2 initialization configuration file.
+poaposos.py: POAP script.
+tftpd32.ini: tftpd64.exe configuration file.
